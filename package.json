@@ -8,5 +8,8 @@
   },
   "author": "Nicolas Pazeto",
   "license": "ISC",
-  "keywords": []
+  "keywords": [],
+  "dependencies": {
+    "express": "^5.3.0"
+  }
 }

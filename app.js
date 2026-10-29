@@ -8,4 +8,4 @@ app.get("/", (requisicao, resposta) => {
   resposta.send(pets);
 });
 
-app.listen(port, () => console.log(`Servidor rodando na porta ${port}`));
+app.listen(3000, () => console.log(`Servidor rodando na porta ${port}`));
