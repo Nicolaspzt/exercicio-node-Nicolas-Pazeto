@@ -16,4 +16,4 @@ const campeonato = [
   },
 ];
 
-export default pets;
+export default campeonato;
